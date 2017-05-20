@@ -37,7 +37,7 @@
       <TileMatrixSetLink>
         <TileMatrixSet>z12to16</TileMatrixSet>
       </TileMatrixSetLink>
-      <ResourceURL format="image/jpeg" resourceType="tile" template="http://localhost/tileserver/Fusagasuga_qmeta/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
+      <ResourceURL format="image/jpeg" resourceType="tile" template="https://ingalejandro.github.io/fusateselas/Fusagasuga_qmeta/{TileMatrix}/{TileCol}/{TileRow}.jpg"/>
     </Layer>
     <TileMatrixSet>
       <ows:Identifier>z12to16</ows:Identifier>
